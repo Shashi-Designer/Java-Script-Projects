@@ -1,7 +1,7 @@
 {
    "manifest_version" :2,
-   "name":"plugin",
-   "description" : "This plugin is a test plugin",
+   "name":"GTmetrix Analyser plugin",
+   "description" : "This plugin is a Analyser Plugin",
    "version" :"1.0",
    
    "browser_action" :
