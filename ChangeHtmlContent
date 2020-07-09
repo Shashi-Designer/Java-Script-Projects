@@ -7,7 +7,8 @@
     
     <body>
          <p id = "demo" > Javascript can change html contents   </p>
-         <button type="button" onclick='document.getElementbyId("demo").innerhtml = "Hello Javascript"'> Click Me  <\button>
+         <button type ="button">  Press this button </button>
+         //<button type="button" onclick='document.getElementbyId("demo").innerhtml = "Hello Javascript"'> Click Me  <\button>
          
     </body>
 </html>
