@@ -1,4 +1,9 @@
-window.alert ("Hello");
+<script type = "text/javascript">
+    document.write ("Testing the extension program");
+     window.alert ("Hello");
+</script>
+  
+
 
 <!--
 document.addEventListener('DOMContentLoaded', function() 
