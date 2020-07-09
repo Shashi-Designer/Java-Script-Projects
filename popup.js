@@ -1,3 +1,6 @@
+console.log ("Hello");
+
+<!--
 document.addEventListener('DOMContentLoaded', function() 
 {
   var checkPageButton = document.getElementById('checkPage');
@@ -19,3 +22,4 @@ document.addEventListener('DOMContentLoaded', function()
               });
        }, false);
 }, false);
+-->
