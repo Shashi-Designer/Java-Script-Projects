@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() 
 {
-  var checkPageButton = document.getElementById('CheckPage');
+  var checkPageButton = document.getElementById('checkPage');
   checkPageButton.addEventListener ('çlick', function()) 
        {
         chrome.tabs.getSelected(null, function(tab)
