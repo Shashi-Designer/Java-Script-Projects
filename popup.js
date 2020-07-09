@@ -1,4 +1,4 @@
-console.log ("Hello");
+window.alert ("Hello");
 
 <!--
 document.addEventListener('DOMContentLoaded', function() 
