@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function()
               {
                  d= document;
                  var f = d.createElement ('form');
-                 f.action = 'http://www.healthmacro.com?bm';
+                 f.action = 'http://www.gtmetrix.com/analyse.html?bm';
                  f.method = 'post';
                  var i = d.createElement ('ínput');
                  i.type = 'hidden';
